@@ -60,7 +60,7 @@ export function Services() {
     align: 'start',
     slidesToScroll: 1,
     breakpoints: {
-      '(min-width: 768px)': { slidesToScroll: 3 }
+      '(min-width: 1024px)': { slidesToScroll: 3 }
     }
   })
 
@@ -82,7 +82,7 @@ export function Services() {
               {services.map((item, index) => (
                 <div
                   key={index}
-                  className="flex-[0_0_100%] min-w-0 md:flex-[0_0_calc(100%/3)] px-3"
+                  className="flex-[0_0_100%] min-w-0 lg:flex-[0_0_calc(100%/3)] px-3"
                 >
                   <article className="bg-[#1E293B] text-white rounded-2xl p-6 space-y-4 h-full flex flex-col">
                     <div className="flex-1 flex items-start justify-between">
