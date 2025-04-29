@@ -52,6 +52,18 @@ export function Footer() {
         </div>
 
         <footer className="grid grid-cols-1 md:gird-cols-2 lg:grid-cols-3 gap-8 mb-12 mt-5">
+
+          <div>
+            <h3 className="text-2xl font-semibold mb-2">Contatos</h3>
+            <p>Email: teste@teste.com </p>
+            <p>Telefone: (99) 123456789 </p>
+          </div>
+
+            <div>
+            <h3 className="text-2xl font-semibold mb-2">Localização</h3>
+            <p>Rua X, Centro, Campo Bom | RS</p>
+          </div>  
+
           <div>
             <h3 className="text-2xl font-semibold mb-2">Pet Shop Dev</h3>
             <p className="mb-4">
@@ -60,21 +72,7 @@ export function Footer() {
             <a href="#" className="bg-green-500 px-4 py-2 rounded-md">
               Contato via WhatsApp
             </a>
-          </div>
-
-          <div>
-            <h3 className="text-2xl font-semibold mb-2">Contatos</h3>
-            <p>Email: teste@teste.com </p>
-            <p>Telefoine: (99) 123456789 </p>
-            <p>Rua X, Centro, Campo Bom | RS</p>
-          </div>
-
-          <div>
-            <h3 className="text-2xl font-semibold mb-2">Contatos</h3>
-            <p>Email: teste@teste.com </p>
-            <p>Telefoine: (99) 123456789 </p>
-            <p>Rua X, Centro, Campo Bom | RS</p>
-          </div>
+          </div> 
         </footer>
       </div>
     </section>
