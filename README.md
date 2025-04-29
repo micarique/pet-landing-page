@@ -21,22 +21,6 @@ Acesse o preview online: 👉 [micarique.github.io/pet-landing-page/](https://mi
 
 ---
 
-## 🏗️ Estrutura do Projeto
-
-```
-.
-├── components/        # Componentes reutilizáveis
-├── pages/             # Rotas da aplicação
-│   └── index.tsx      # Página principal
-├── public/            # Assets estáticos (imagens, ícones etc.)
-├── styles/            # Estilos globais e configurações do Tailwind
-├── tailwind.config.ts # Configuração do TailwindCSS
-├── tsconfig.json      # Configuração do TypeScript
-└── next.config.js     # Configuração do Next.js
-```
-
----
-
 ## 🚀 Como Rodar o Projeto Localmente
 
 1. **Clone o repositório:**
