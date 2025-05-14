@@ -5,7 +5,7 @@ Uma landing page moderna, responsiva e altamente performática, desenvolvida com
 
 ## ✨ Destaques do Projeto
 
-- 🚀 **Next.js 14** – Renderização híbrida (SSR + SSG), performance e SEO otimizados
+- 🚀 **Next.js 15** – Renderização híbrida (SSR + SSG), performance e SEO otimizados
 - 🎨 **TailwindCSS** – Estilização rápida, responsiva e altamente customizável
 - 🌍 **100% Responsiva** – Layout fluido em todos os dispositivos
 - ⚡ **Desempenho e Acessibilidade** – Lighthouse score alto (90+)
@@ -90,16 +90,10 @@ Este projeto está pronto para ser hospedado em plataformas como **Vercel** ou *
 
 ## 👨‍💻 Sobre o Autor
 
-Desenvolvido por **Micael Machado** ([micarique](https://github.com/micarique)) — apaixonado por criar interfaces modernas, acessíveis e performáticas. Sempre buscando aprender, evoluir e contribuir com a comunidade dev.
+Desenvolvido por **Micael Machado** — apaixonado por criar interfaces modernas, acessíveis e performáticas. Sempre buscando aprender, evoluir e contribuir com a comunidade dev.
 
 ---
 
 ## 🤝 Contribuições
 
 Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar PRs! Qualquer feedback é bem-vindo.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
